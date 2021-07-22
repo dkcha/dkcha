@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @dkcha
-- 👀 I’m interested in exploring new opportunities as a Software Engineer
-- 🌱 I’m currently learning more into web development using Flask and Python
 - 📫 How to reach me: davidkyungmincha@gmail.com
 
 <!---
